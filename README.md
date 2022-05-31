@@ -8,3 +8,4 @@ All the code here may not exactly be _production ready_. I'm building this whils
 
 1. You need to have [Node.js](https://nodejs.org/en/download)
 2. Install project dependencies by running `npm install`.
+3. To run project on localport, run `npm start`
